@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
         mainAxisAlignment:MainAxisAlignment.center,
         children: [
           
-        Center(child: Text("hello world"),)],),
+        Center(child: Text("my world"),)],),
       
     );
   }
